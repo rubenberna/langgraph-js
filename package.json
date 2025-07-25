@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@langchain/community": "^0.3.49",
+    "@langchain/core": "^0.3.66",
+    "@langchain/langgraph": "^0.3.11",
+    "@langchain/openai": "^0.6.3",
+    "@langchain/tavily": "^0.1.4",
+    "dotenv": "^17.2.1"
+  }
+}
